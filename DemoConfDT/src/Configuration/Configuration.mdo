@@ -336,6 +336,7 @@
   <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
   <constants>Constant.КонстантаВасилий</constants>
   <constants>Constant.КонстантаВасилий</constants>
+  <constants>Constant.КонстантаАндрей</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
@@ -367,6 +368,7 @@
   <catalogs>Catalog.Встречи</catalogs>
   <catalogs>Catalog.СправочникАндрей</catalogs>
   <catalogs>Catalog.СправочникВасилий</catalogs>
+  <catalogs>Catalog.СправочникАндрей_1</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
